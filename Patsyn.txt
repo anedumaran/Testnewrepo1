@@ -63,3 +63,4 @@ Diagonistic reports - menu
 Clinical dashboard
 	i-
 -From dashboard / clinical view -->Widgets can be customized according to the users wish and can be save it with same to refer
+Added new test
